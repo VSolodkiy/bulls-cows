@@ -1,0 +1,8 @@
+.align-digit {
+  text-align: center;
+  margin-top: 10px;
+}
+
+input:focus-visible {
+  outline: 3px #18bc9c solid;
+}

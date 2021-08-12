@@ -1,0 +1,31 @@
+.start-page {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 350px;
+  height: 250px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.start-page h1 {
+  margin-bottom: 0px;
+}
+
+.btn-warning {
+  background-color: #d28f3f;
+  border-color: #d28f3f;
+}
+/* .btn-circle {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  text-align: center;
+  padding-left: 0;
+  padding-right: 0;
+  font-size: 16px;
+  white-space: normal;
+} */

@@ -1,0 +1,19 @@
+#button button {
+  margin-right: 10px;
+}
+
+#button input {
+  margin-right: 10px;
+}
+
+.game-shell {
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #444;
+  margin-bottom: 1rem;
+  margin-top: 15px;
+}
+
+.jumbotron {
+  background-color: #fff;
+}
